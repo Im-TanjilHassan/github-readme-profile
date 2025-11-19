@@ -23,38 +23,82 @@
  
 
 ---
+<h2 align="center">🔥 Languages, Frameworks & Tools 🔥</h2>
 
-### 📌 Skills & Technologies
-<div align="center">
+<p>
+  <!-- Languages -->
+  <strong>Languages:</strong><br/>
+  <img src="https://skillicons.dev/icons?i=html,css,js" height="40" />
+</p>
 
-#### **Languages**
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+<p>
+  <strong>CSS Frameworks & Libraries:</strong><br/>
+  <img src="https://skillicons.dev/icons?i=tailwindcss,bootstrap" height="40" />
+</p>
 
-#### **Frontend**
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
-![React Router](https://img.shields.io/badge/React_Router-CA4245?logo=reactrouter&logoColor=white)
-![Tailwind](https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwindcss&logoColor=white)
-![DaisyUI](https://img.shields.io/badge/DaisyUI-5A0EF8?logo=daisyui&logoColor=white)
+<p>
+  <!-- JS Frameworks -->
+  <strong>JavaScript Frameworks & Libraries:</strong><br/>
+  <img src="https://skillicons.dev/icons?i=react" height="40" />
+</p>
 
-#### **Backend**
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
+<p>
+  <!-- Backend -->
+  <strong>Backend & Server:</strong><br/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express" height="40" />
+</p>
 
-#### **Others**
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+<p>
+  <!-- Database -->
+  <strong>Database & Auth:</strong><br/>
+  <img src="https://skillicons.dev/icons?i=mongodb,firebase" height="40" />
+</p>
 
-</div>
+<!--Deployment-->
+<p>
+  <strong>Deployment Platforms:</strong><br/>
+  <img src="https://skillicons.dev/icons?i=vercel,netlify,firebase" height="40" />
+</p>
+
+<!-- Design Tools -->
+<p>
+  <strong>Design & Graphics:</strong><br/>
+  <img src="https://skillicons.dev/icons?i=figma" height="40" />
+</p>
+
+<p>
+  <!-- Tools -->
+  <strong>Tools & Technologies:</strong><br/>
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,postman" height="40" />
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Windows-Dark.svg" height="40" />
+</p>
 
 ---
 
 ### 📫 Connect With Me
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white)](YOUR_FB_LINK)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](YOUR_INSTA_LINK)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](YOUR_LINKEDIN_LINK)
+<p>
+
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/tanjil-hassan-991719218" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
+  </a>
+
+  <!-- WhatsApp -->
+  <a href="https://wa.me/8801304034656" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" height="40" />
+  </a>
+
+  <!-- Discord -->
+  <a href="https://discord.com/users/tanjilhassan0853" target="_blank">
+    <img src="https://skillicons.dev/icons?i=discord" height="40" />
+  </a>
+
+  <!-- Daily.dev -->
+  <a href="https://daily.dev/tanjilhassan27" target="_blank">
+    <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/DailyDev-Dark.svg" height="40" />
+  </a>
+
+</p>
 
 ---
 
