@@ -1,12 +1,26 @@
-<h1 align="center" style="color:#4ade80">Hi 👋, I'm Tanjil Hassan</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=500&color=C2410C&center=true&vCenter=true&width=600&lines=Hi+I'm+Tanjil+Hassan;I+am+a+MERN+Stack+Developer" />
+</p>
 <h3 align="center">MERN Stack Developer | React.js Enthusiast | Web App Builder</h3>
 
 ---
 
-### 👨‍💻 About Me
-- 🔥 MERN Stack Developer focused on creating clean, modern and user-friendly web applications  
-- ⚛️ Strong interest in frontend development with React.js and real-world UI building  
-- 🚀 Passionate about writing clean code, problem solving & continuous improvement  
+<table>
+  <tr>
+    <td width="60%">
+      <h2>🔥 Present Me</h2>
+      <p>  
+        I'm a MERN Stack Developer skilled in React, TailwindCSS, DaisyUI, Firebase, Node.js, Express, and MongoDB.<br>  
+        I love learning more advanced frontend techniques and backend logics to improve my skills.<br>  
+        I enjoy creating clean, modern, and efficient web applications.  
+      </p>
+    </td>
+    <td width="40%">
+      <img src="https://plus.unsplash.com/premium_vector-1733734464224-12248f9547af?q=80&amp;w=1031&amp;auto=format&amp;fit=crop&amp;ixlib=rb-4.1.0&amp;ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="Profile Image" width="100%" />
+    </td>
+  </tr>
+</table>
+ 
 
 ---
 
